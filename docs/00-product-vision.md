@@ -1,73 +1,57 @@
-# Oria Product Vision
+# Product Vision
 
-## Mission
+# Vision
 
-To help learners discover what they truly understand through adaptive, evidence-based conversations.
+Oria exists to improve how people learn.
 
----
+Most learners mistake recognition for understanding. Reading notes repeatedly often creates the illusion of mastery without testing true recall.
 
-## The Problem
-
-Students often mistake familiarity for understanding. Reading notes repeatedly or completing traditional quizzes can create a false sense of confidence. Existing AI tools answer questions well, but they rarely determine what a learner genuinely understands or identify misconceptions in a structured, explainable way.
+Oria changes this by transforming study materials into intelligent conversations.
 
 ---
 
-## Our Vision
+# Mission
 
-Oria is an AI-powered oral examination platform that helps learners measure, improve, and track their understanding over time.
-
-Rather than acting as a chatbot, Oria conducts adaptive conversations based on the learner's study materials, evaluates responses using evidence from those materials, and builds a continuously evolving learner model.
+Help learners understand rather than memorize.
 
 ---
 
-## Core Principles
+# Target Users
 
-- Understanding over memorization.
-- Evidence before opinion.
-- Every interaction should improve the learner model.
-- AI should coach, not replace thinking.
-- Every recommendation should be explainable.
-
----
-
-## Our Users
-
-Primary:
 - University students
+- Professional certification candidates
 - Self-learners
-- Certification candidates
-
-Future:
-- Schools
-- Universities
-- Corporate training
+- Teachers
+- Tutors
 
 ---
 
-## MVP
+# Core Problems
 
-A learner can:
-
-1. Create an account.
-2. Upload study notes.
-3. Start an oral examination.
-4. Answer by voice.
-5. Receive an explainable report showing:
-   - Strengths
-   - Weaknesses
-   - Misconceptions
-   - Recommended review topics
+- Passive studying
+- Poor active recall
+- Weak long-term retention
+- Lack of personalized feedback
 
 ---
 
-## Success
+# Solution
 
-A learner finishes a session saying:
+Learners upload their study material.
 
-"I know exactly what I understand, what I misunderstood, and what I should study next."
+Oria processes the material into searchable knowledge.
+
+The learner speaks with Oria.
+
+Instead of providing answers, Oria asks adaptive questions, evaluates responses, identifies knowledge gaps, and guides improvement.
 
 ---
 
-## North Star
+# Long-Term Goals
 
-Build the most accurate and explainable model of a learner's understanding.
+- Voice-first learning
+- Personalized learner model
+- Progress tracking
+- Adaptive questioning
+- Knowledge graph support
+- Multi-language support
